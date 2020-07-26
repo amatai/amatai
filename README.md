@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![LinkedIn: ajaymatai](https://img.shields.io/badge/LinkedIn-ajaymatai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajaymatai/)](https://www.linkedin.com/in/ajaymatai/)
+[![GitHub: amatai](https://img.shields.io/badge/github-amatai-000000?logo=Github)](https://github.com/amatai)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-1342137/ajay--m-orange?logo=Stack%20Overflow)](https://stackoverflow.com/users/1342137/ajay-m)
+
+
 <!--
 **amatai/amatai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
